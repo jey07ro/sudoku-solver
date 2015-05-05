@@ -1,3 +1,6 @@
+/**
+ * @author Victor Ponta
+ */
 #include "stdio.h"
 
 
